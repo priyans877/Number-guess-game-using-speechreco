@@ -3,7 +3,7 @@ A number guessing game is a frequent mini-project for beginner programmers who g
 
 Use to give integer value in speech input (strictly).
 
-#Intructions:
+# Intructions:
 1>Clone this code.
 2>Create an seprate virtual env for all module.
   2.1>pip install virtualenv.
